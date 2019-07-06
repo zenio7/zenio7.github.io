@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 내 소개
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕 ??? 난 직이라고해
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 한국에 살고
+- 컴퓨터공학을 전공했지
 
-What else do you need?
+더 알고싶어?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+그럴리 없겠지만 더 알고싶으면 [여기](instagram/recvaa) 로 찾아와서 **팔로우** 하면 전부 볼 수 있지.
